@@ -1,0 +1,22 @@
+{
+  "name": "log4js-date-file-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emiya0306/log4js-dateFile-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emiya0306/log4js-dateFile-issue/issues"
+  },
+  "homepage": "https://github.com/Emiya0306/log4js-dateFile-issue#readme",
+  "dependencies": {
+    "log4js": "^2.3.11"
+  }
+}
